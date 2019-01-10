@@ -11,6 +11,7 @@
     "class-name": true,                 // Enforce PascalCased class and interface names
     "eofline": true,                    // Ensure files end with a newline
     "indent": [true, "spaces", 2],      // Enforce two-space indentation
+    "max-line-length": [true, 120],     // Enforce line limit to 120 characters
     "member-access": true,              // Require explicit visibility declarations for class members  
     "no-console": false,                // Permit console methods
     "no-consecutive-blank-lines": true, // Enforce single consecutive blank line limit

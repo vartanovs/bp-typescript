@@ -17,7 +17,7 @@
     "target": "es6",                  // Target ES2015 during compilation
 
     // "jsx": "react",              // Uncomment when using React .tsx files
-    "typeRoots": ["./node_modules/@types", "./src/@types"],
+    "typeRoots": ["./node_modules/@types", "./@types"],
 
     "alwaysStrict": true,             // Emit "use Strict" for each source file
     "esModuleInterop": true,          // Enable importStar and importDefault helpers for babel
@@ -28,7 +28,7 @@
     "noUnusedLocals": true,           // Prohibit unused variables declarations
     "noUnusedParameters": true,       // Prohibit unused function parameters
     "preserveConstEnums": true,       // Retain const enum declarations
-    "strictFunctionTypes": true,      // Prohibit bivariant function parameter checking 
+    "strictFunctionTypes": true,      // Prohibit bi-variant function parameter checking 
     "strictNullChecks": true          // Null/Undefined only assignable to themselves, void and any
   },
   "exclude": [

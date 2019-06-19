@@ -1,5 +1,5 @@
 {
-  "name": "typescript-boilerplate",
+  "name": "bp-typescript",
   "version": "1.0.0",
   "description": "Boilerplate for TypeScript Projects",
   "main": "index.ts",
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vartanovs/typescript-boilerplate.git"
+    "url": "git+https://github.com/vartanovs/bp-typescript.git"
   },
   "author": "Serge Vartanov <vartanov.s@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vartanovs/typescript-boilerplate/issues"
+    "url": "https://github.com/vartanovs/bp-typescript/issues"
   },
-  "homepage": "https://github.com/vartanovs/typescript-boilerplate#readme",
+  "homepage": "https://github.com/vartanovs/bp-typescript#readme",
   "dependencies": {
-    "ts-node": "8.2.0",
-    "typescript": "3.5.1"
+    "ts-node": "8.3.0",
+    "typescript": "3.5.2"
   },
   "devDependencies": {
-    "@types/node": "12.0.5",
+    "@types/node": "12.0.8",
     "@typescript-eslint/eslint-plugin": "1.10.2",
     "@typescript-eslint/parser": "1.10.2",
     "eslint": "5.16.0"

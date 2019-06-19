@@ -16,8 +16,7 @@
     "sourceMap": true,                // Generate .map file during compilation
     "target": "es6",                  // Target ES2015 during compilation
 
-    // "jsx": "react",              // Uncomment when using React .tsx files
-    "typeRoots": ["./node_modules/@types", "./@types"],
+    // "jsx": "react",                // Uncomment when using React .tsx files
 
     "alwaysStrict": true,             // Emit "use Strict" for each source file
     "esModuleInterop": true,          // Enable importStar and importDefault helpers for babel

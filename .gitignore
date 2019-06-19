@@ -12,3 +12,6 @@ package-lock.json
 
 # Environment variables
 .env
+
+# OS Generated Files
+.DS_Store

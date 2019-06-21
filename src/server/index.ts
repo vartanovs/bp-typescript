@@ -3,7 +3,7 @@
  * @description Server Initialization File
  */
 
-import http from 'http';
+import * as http from 'http';
 
 const PORT = 3000;
 
